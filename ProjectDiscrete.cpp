@@ -201,7 +201,7 @@ int main() {
 				cout << "Error: r cannot be greater than n in permutation." << endl;
 				break;
 			}
-			if (n > 100) {yan n
+			if (n > 100) {
 				cout << "Error: Value too large! Please try smaller numbers ." << endl;
 				break;
 			}
